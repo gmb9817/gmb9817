@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning "CP algorithm"
+📫 How to reach me: https://www.instagram.com/gmb9817/
 <!--
 **gmb9817/gmb9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
