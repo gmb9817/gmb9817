@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning "CP algorithm"<br>
+🌱 I’m currently learning **everything** about computer<br>
 📫 How to reach me: https://www.instagram.com/gmb9817/<br>
 gmb9817@kakao.com <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmb9817)](https://solved.ac/gmb9817/) 
