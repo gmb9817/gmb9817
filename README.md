@@ -2,7 +2,11 @@
 🌱 I’m currently learning **everything** about computer<br>
 📫 How to reach me: https://www.instagram.com/gmb9817/<br>
 gmb9817@kakao.com <br>
-<button>안녕</button>
+<div id="hi">안녕</div>
+<script>
+let gmb=1;
+document.getElementById("hi").innerHTML=gmb;
+</script>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmb9817)](https://solved.ac/gmb9817/) 
 <!--
 **gmb9817/gmb9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
