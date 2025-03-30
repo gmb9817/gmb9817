@@ -3,7 +3,7 @@
 📫 How to reach me: https://www.instagram.com/gmb9817/<br>
 gmb9817@kakao.com <br>
 💬 Ask me about **anything** <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmb9817)](https://solved.ac/gmb9817/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmb9817)](https://solved.ac/gmb9817/) <br>
 [![BOJ](https://bojstat.vulcan.site/user/gmb9817)](https://www.acmicpc.net/user/gmb9817)
 <!--
 **gmb9817/gmb9817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
